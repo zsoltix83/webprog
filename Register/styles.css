@@ -1,0 +1,48 @@
+.l_content{
+    margin-left: 35%;
+    margin-top: 5%;
+    border: black  dotted 5px;
+    width: 30%;
+    height: 30%;
+    text-align: center;
+    padding-top: 5%;
+}
+.l_header{
+   margin-left: 10%;
+   width: 80%;
+   height: 10%;
+   border: black solid 2px;
+   text-align: center;
+   background-color:  bisque;
+} 
+.l_footer{
+    margin-top: 11%;
+}
+body{
+    background-color:  aquamarine;
+}
+.a_footer{
+    margin-top: 1%;
+}
+.menu{
+    border: black  dashed 3px;
+    width: 15%;
+    height: 30%;
+    float: left;
+    margin-top: 3%;
+    text-align: center;
+    padding: 5px;
+}
+
+.content{
+    margin-left: 25%;
+    margin-top: 3%;
+    border: black  dotted 5px;
+    width: 70%;
+    height: 65%;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+.button{
+    width: 85%;
+}
